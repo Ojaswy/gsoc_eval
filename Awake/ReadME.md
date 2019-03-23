@@ -19,6 +19,4 @@ Run [awake.py](https://github.com/Ojaswy/gsoc_eval/blob/master/Awake/awake.py) u
 
 ![](https://github.com/Ojaswy/gsoc_eval/blob/master/Awake/image.png)
 
-##### Other_files
 
-Contains code for individual implementation of each task.
