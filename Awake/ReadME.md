@@ -17,7 +17,7 @@ Run [awake.py](https://github.com/Ojaswy/gsoc_eval/blob/master/Awake/awake.py) u
 
 #### TASK III
 
-![](https://github.com/Ojaswy/gsoc_eval/blob/master/Awake/image.png)
+![](https://github.com/Ojaswy/gsoc_eval/blob/master/Awake/other_files/awake.PNG)
 
 ##### Other_files
 
